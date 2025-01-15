@@ -1,0 +1,13 @@
+12/12/2024 :
+added function changecolor in messageing page(index.php), allow change color on selected contact person
+added function show the student work with 3 searching result. since run in client side, it will be fast. (test this with more than 3 student work please)
+15/12/2024 :
+patched css and top right corner style
+added password validation and verfication test
+added way for users to change their password
+added hover on paging system in student work
+refined top right corner so that it will always on top and will not been covered by anything
+added adjustment on logo, not fixed height but only fixed width
+
+16/12/2024:
+added resize login form when screen resolution width<700px
